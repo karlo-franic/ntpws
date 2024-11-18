@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        #red {color: red; }
+    </style>
+</style>
+</head>
+<body>
+    <h1>This is a Heading</h1>
+    <p>This is a paragraph.</p>
+    <p id="red">This is another paragraph.</p>
+</body>
+</html>
